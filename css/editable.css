@@ -97,6 +97,10 @@ a.dark:hover {
         padding-bottom: 1vh;
         padding-left: 2.5vw;
     }
+    .trustlogo-image {
+        width: 5rem;
+        padding-right: 1.5vw;
+    }
 }
 
 #photo-of-me-black {
@@ -196,5 +200,5 @@ a.dark:hover {
 }
 
 .flex-item.trustlogo {
-    padding-right: 0.5vw;
+    padding-right: 1vw;
 }
