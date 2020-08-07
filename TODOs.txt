@@ -1,0 +1,24 @@
+########################################################################################
+TODOs List
+########################################################################################
+
+# Main Priorities
+- try to clean up the bluehost directory public_html
+- understand the differences between http and https
+
+# Less Priorities
+- add about section
+    - more information about me
+    - technical info
+    - personal interests
+- add js function to shrink navbar
+- images overlays the navbar
+- button to top-page
+
+# DONEs List
+DONE - add grid portfolio with images/github links
+DONE - maybe remove the description or find a way to center it
+DONE - add awards
+DONE - add contact
+DONE - change colors
+DONE - add link to linkedin, github and gitlab
